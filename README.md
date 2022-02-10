@@ -64,4 +64,4 @@ python app.py
 # App deployment  
  
  link :
-  [here] (https://lc50-estimator.herokuapp.com/)
+[here] (https://lc50-estimator.herokuapp.com/)
