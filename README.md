@@ -24,6 +24,10 @@ Random Forest Regressor
 
 Artificial Neural Network   
 
+# App deployment  
+ 
+[lc50-estiimator](https://lc50-estimator.herokuapp.com/)
+
 # To run this Project locally
 
 Step 1: Create conda environment
@@ -61,7 +65,3 @@ python app.py
 # Output console 
 ![toxicity](Capture2.PNG)
 
-# App deployment  
- 
-
-[lc50-estiimator](https://lc50-estimator.herokuapp.com/)
