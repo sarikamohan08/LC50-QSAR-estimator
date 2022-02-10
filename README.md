@@ -65,4 +65,4 @@ python app.py
  
 link :
 
-[a link](https://lc50-estimator.herokuapp.com/)
+[app](https://lc50-estimator.herokuapp.com/)
