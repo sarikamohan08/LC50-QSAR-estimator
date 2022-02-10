@@ -54,3 +54,7 @@ python app.py
 
 ```
 
+# Input console 
+
+![toxicity](Capture1.PNG)
+
