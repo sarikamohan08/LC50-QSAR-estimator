@@ -58,3 +58,9 @@ python app.py
 
 ![toxicity](Capture1.PNG)
 
+# Output console 
+![toxicity](Capture2.PNG)
+
+# App deployment  
+
+[here](https://lc50-estimator.herokuapp.com/)
